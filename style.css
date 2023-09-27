@@ -400,6 +400,10 @@ gap: 5rem;
 .container-icon i{
     font-size: 1.7rem;
 }
+.container-icon a{
+    text-decoration: none;
+    color: #fff;
+}
 
 .copyright p {
     color: #a7a7a7;
