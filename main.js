@@ -8,7 +8,7 @@ window.addEventListener('scroll',()=>{
         topBar.classList.remove('transparent')
     }
 })
-
+ 
 // nueva variable para almacenar altura del topbar
 
 let topbarHeight = topBar.offsetHeight;
