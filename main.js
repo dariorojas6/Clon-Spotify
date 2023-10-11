@@ -11,7 +11,7 @@ window.addEventListener('scroll',()=>{
  
 // nueva variable para almacenar altura del topbar
 
-let topbarHeight = topBar.offsetHeight;
+let topbarHeight = topBar.offsetHeight; 
 
 // añadimos un padding basado en la altura al main-content o el contenido principal
 
